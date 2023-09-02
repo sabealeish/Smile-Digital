@@ -164,6 +164,14 @@
 .landing .text{
   padding-top: 25px;
 }
+
+#sec-expertise{
+  margin-top: -200px;
+}
+
+#sec-expertise-one{
+  margin-top: -290px;
+}
   }
 
 
@@ -501,6 +509,14 @@
 
 .image-services .img-home{
   margin-right: 0;
+}
+
+#sec-expertise{
+  margin-top: -200px;
+}
+
+#sec-expertise-one{
+  margin-top: -190px;
 }
 
      

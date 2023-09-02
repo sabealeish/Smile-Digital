@@ -519,6 +519,10 @@ header ul li a:hover{
   border-radius: 12px;
 }
 
+#sec-expertise{
+  margin-top: -100px;
+}
+
 .sec-expertise #text-about{
   margin-right: 10%;
   word-spacing: 10px;
@@ -533,6 +537,7 @@ header ul li a:hover{
   text-align: justify;
   color: rgba(0, 0, 0, 1);
 }
+
 
 
 
